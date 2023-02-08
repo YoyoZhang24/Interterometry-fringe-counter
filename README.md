@@ -8,6 +8,8 @@ This program counts the number of fringes passed in an interference pattern from
 
 ```pip install matplotlib```
 
+```pip install math```
+
 # Pre-processing
 The input video must be recorded at a stationary position. There should be nothing obstructing the interference pattern in the frame. Ideally, there would be a high contrast between the dark spots (backdrop) and the bright spots. The video should contain a reasonable amount of background around the intereference pattern.
 
